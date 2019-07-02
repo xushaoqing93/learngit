@@ -3,6 +3,7 @@ Git is free software.
 Git has a mutable index called stage.
 This is difference.
 lalalalalal
+not like lalala
 change test merge
 test
 zahuishier
